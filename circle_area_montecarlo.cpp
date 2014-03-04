@@ -1,14 +1,14 @@
-/***********************************************************
+/************************************************************
  What is the area of the crescent formed by a small circle
- inside a larger circle?  This short program calculates an
- estimate via a Monte Carlo method.  Note that this example
+ overlapping a larger circle? This short program calculates 
+ an estimate via a Monte Carlo method. Note that this example
  does no error checking and makes a lot of assumptions 
  about the input.
  
  - Marie Huynh
    marie@mariehuynh.com
    Nov 3, 2013
- **********************************************************/
+ ***********************************************************/
 
 #include <iostream>
 #include <cstdlib>
