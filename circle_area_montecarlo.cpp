@@ -68,7 +68,7 @@ float montecarloarea(int num_runs,
 }
 
 int main() {
-  float area, rl, xl,yl,rs,xs,ys,num_runs;
+  float area, rl, xl, yl, rs, xs, ys, num_runs;
   
   cout << "This will use the Monte Carlo method to find the area of the crescent between two overlapping circles.\n";
   cout << "Radius of the larger circle: ";
